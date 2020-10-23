@@ -1,3 +1,4 @@
+//app.js
 import React from 'react'; 
 import './App.css';
 import Child from "./Child";
@@ -13,4 +14,3 @@ function App () {
 }
 
 export default App;
-
