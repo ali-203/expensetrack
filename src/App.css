@@ -16,20 +16,20 @@ body{
 }
 
 .text_center{
-  font-size: 2rem;
+  font-size: 3rem;
    font-family: 'Nunito', sans-serif;
    background-color: green;
    color: white;
    text-align: center;
    box-shadow: 0px 5px 15px -5px rgba(0,0,0,0.4);
-   border-radius: 9px;
+   border-radius: 10px;
    
 }
 .expense_container{
   display: flex;
   justify-content: space-around;
   background-color: white;
-  box-shadow: 0px 5px 15px -5px rgba(0,0,0,0.4);
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.4);
   
 }
 .Transaction_form{
