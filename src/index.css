@@ -1,45 +1,14 @@
-.container{
-  max-width:400px ;
-  min-height: 450px;
-  margin: 0 auto;
-  background-color: powderblue;
-  box-shadow: 0 0 30px gray;
-  margin-top: 50px;
-padding: 15px 50px;
-}
- 
-.text_cenetr{
-  text-align: center;
-}
 
-.expence_container {
-  display: flex;
-  justify-content: space-around;
-  background-color: powderblue;
-  box-shadow: 0 0 10px black;
-
-}
-.transaction-form {
-  width: 100%;
-margin: 10px 0;
-padding: 5px 0 ;
-}
-.transaction-list{
+body {
   margin: 0;
-  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-.transaction-list > li {
-  display: flex;
-  justify-content: space-between;
-  box-shadow: 0 0 10px gray;
-padding: 5px 15px;
-margin: 5px 0;
-background-color: whitesmoke;
-border-radius: 5px ;
 
-}
-.transaction-form input {
-  width: 100%;
-margin: 10px 0;
-padding: 5px 5px ;
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
